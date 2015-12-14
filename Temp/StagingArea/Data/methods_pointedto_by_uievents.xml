@@ -1,0 +1,10 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="PlayAgain">
+			<method name="PlayButton"/>
+			<method name="YesButton"/>
+			<method name="NoButton"/>
+			<method name="NoButton"/>
+		</type>
+	</assembly>
+</linker>
